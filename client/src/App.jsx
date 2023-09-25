@@ -25,7 +25,7 @@ function App() {
     borderRadius: "0px",
     minHeight: "100vh",
   };
- const URL="https://password-reset-backend-topaz.vercel.app";
+ const server="https://password-reset-backend-topaz.vercel.app";
   const [show, setshow] = useState(true);
   const darkTheme = createTheme({
     palette: {
